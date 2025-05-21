@@ -17,4 +17,5 @@ with Listener(on_press=on_press) as listener:
     listener.join()
 
 
-
+def func () :
+    return 0
